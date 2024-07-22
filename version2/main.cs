@@ -40,3 +40,4 @@ public class MainClass
 
 
 // csc -platform:x64 main.cs
+// main.exe
